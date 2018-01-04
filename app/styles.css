@@ -1,6 +1,6 @@
 header {
   display: grid;
-  /*grid-template-columns: repeat(6, 1fr);*/
+  grid-template-columns: repeat(6, 1fr);
   grid-gap: 15px;
   align-items: flex-end;
   border-bottom: 1rem solid darkgrey;
